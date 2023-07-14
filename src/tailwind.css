@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bodika{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+}

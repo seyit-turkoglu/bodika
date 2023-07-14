@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "categoryName": "Giyim Ürünler"
+    },
+    {
+        "id": 2,
+        "categoryName": "Aksesuar Ürünler"
+    },
+    {
+        "id": 3,
+        "categoryName": "Akıllı Cihazlar"
+    },
+    {
+        "id": 4,
+        "categoryName": "Züccaciye"
+    },
+    {
+        "id": 5,
+        "categoryName": "Petshop Ürünler"
+    },
+    {
+        "id": 6,
+        "categoryName": "Kırtasiye Ürünler"
+    },
+    {
+        "id": 7,
+        "categoryName": "Beyaz Eşya"
+    },
+    {
+        "id": 8,
+        "categoryName": "Oyuncak Ürünler"
+    },
+    {
+        "id": 9,
+        "categoryName": "Makyaj Ürünler"
+    },
+    {
+        "id": 10,
+        "categoryName": "Eloktronik Ürünler"
+    },
+    {
+        "id": 11,
+        "categoryName": "Gıda Ürünler"
+    }
+]
